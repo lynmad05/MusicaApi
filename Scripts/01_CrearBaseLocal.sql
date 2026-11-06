@@ -1,0 +1,3 @@
+IF DB_ID('MusicaDB') IS NULL
+    CREATE DATABASE MusicaDB;
+GO
